@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Charuna! <br>Full-stack developer eager to apply knowledge and skills to software development. Strong foundation in Java and C#, eager to learn and grow.<br>charunadev<br><br>charunadev<br><br>🎓 Studied Software Engineering at General Sir John Kotelawala Defence University, Sri Lanka<br><br>📫 How to reach me charuna.dev@gmail.com<br><br>💬 Ask me about Java,.Net and Angular<br><br>🌱 I’m currently learning Next.js<br>
+Hi 👋, I'm Charuna! <br>Full-stack developer eager to apply knowledge and skills to software development. Strong foundation in Java and C#, eager to learn and grow.<br><br>🎓 Studied Software Engineering at General Sir John Kotelawala Defence University, Sri Lanka<br><br>📫 How to reach me charuna.dev@gmail.com<br><br>💬 Ask me about Java,.Net and Angular<br><br>🌱 I’m currently learning Next.js<br>
 
 
 ## 🌐 Socials:
