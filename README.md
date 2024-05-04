@@ -15,5 +15,32 @@ Full-stack developer eager to apply knowledge and skills to software development
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CharunaDev&icon=0&color=2)](https://visitcount.itsvg.in)
+<style>
+/* Add animation to GitHub Stats */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.github-stats {
+  animation: fadeIn 1.5s ease-out;
+}
+</style>
+<script>
+// Add animation to GitHub Stats using JavaScript
+const githubStats = document.querySelector('.github-stats');
+
+window.addEventListener('load', () => {
+  githubStats.style.opacity = 0;
+  setTimeout(() => {
+    githubStats.style.transition = 'opacity 1.5s ease-out';
+    githubStats.style.opacity = 1;
+  }, 100);
+});
+</script>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
